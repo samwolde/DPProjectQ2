@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\bin\Debug\DP q2.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\bin\Debug\DP q2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\bin\Debug\DP q2.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP q2.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP_q2.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP_q2.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP q2.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP q2.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DP q2\DP q2\obj\Debug\DP q2.pdb
